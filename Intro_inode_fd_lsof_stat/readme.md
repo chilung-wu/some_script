@@ -21,7 +21,7 @@
 
 ### `關係圖` 
 
-![alt text](image.png)
+![alt text](./images/fd_inode_relationship.png)
 ref: [lusp_fileio_slides.pdf](https://man7.org/training/download/lusp_fileio_slides.pdf)
 
 
